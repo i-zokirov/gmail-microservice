@@ -1,0 +1,2 @@
+service: mailer
+runtime: nodejs16
